@@ -15,7 +15,7 @@ const Contact = () => {
             </button>
           </a>
           <h2 href="#" className="font-none text-xs p-1">
-            (830) 219-4796
+            (830)  219-4796
           </h2>
           <h1 href="#" className="font-none text-xs p-1">
             valeriagame19@gmail.com
